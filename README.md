@@ -25,4 +25,7 @@ in Windows feel free to contact me at saiasemperor@gmail.com
 
 Stay strong
 
+Guys I found the SMTP server this is the site: https://www.k9webprotection.com/license.jsp
+just enter your credentials here and you'll get a license :)
+
 
