@@ -20,9 +20,6 @@ since it was quite effective
 I dont really know of any other software that can block pornographic content
 in safemode with networking (Windows).
 
-If anyone knows of another program or a way to disable the menu "SafeMode with networking"
-in Windows feel free to contact me at saiasemperor@gmail.com
-
 Stay strong
 
 Guys I found the SMTP server this is the site: https://www.k9webprotection.com/license.jsp
