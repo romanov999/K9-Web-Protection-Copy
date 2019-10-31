@@ -26,3 +26,5 @@ Guys I found the SMTP server this is the site: https://www.k9webprotection.com/l
 just enter your credentials here and you'll get a license :)
 
 
+UPDATED:
+Added .exes for Windows And Mac version 4.4.2
