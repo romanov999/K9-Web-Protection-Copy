@@ -26,8 +26,8 @@ Guys I found the SMTP server this is the site: https://www.k9webprotection.com/l
 just enter your credentials here and you'll get a license :)
 
 EDIT: This url https://www.k9webprotection.com/license.jsp is no longer valid.\
-      I found out that you can use the following convention for a license: K97D6ZF8DD\
-      Field for license -> **K9AAAAAAAA** or **K9 followed by 8 other symbols**
+	I found out that you can use the following convention for a license: K97D6ZF8DD\
+	Field for license -> **K9AAAAAAAA** or **K9 followed by 8 other symbols**
    
 
 UPDATED:
